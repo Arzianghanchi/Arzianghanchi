@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arzianghanchi
-- 👀 I’m interested in Codding 
-- 🌱 I’m currently learning Python 
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
