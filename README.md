@@ -26,7 +26,7 @@
 🌩️ AWS | ☸️ Kubernetes | 🐳 Docker  
 
 **IaC & Automation:**  
-🌐 Terraform | 📦 Helm | ⚙️ Ansible  
+🌐 Terraform | 📦 Helm
 
 **CI/CD & Monitoring:**  
 🚀 GitHub Actions | 📊 Prometheus | 📉 Grafana  
