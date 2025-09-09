@@ -47,7 +47,7 @@
 ## 📫 Connect With Me  
 - 🌐 [LinkedIn](www.linkedin.com/in/arzian-ghanchi)  
 - 🐙 [GitHub](https://github.com/arzianghanchi)  
-- ✉️ Reach me at: **your-email@example.com**  
+- ✉️ Reach me at: **work.arzianghanchi@gmail.com**  
 
 ---
 
