@@ -37,7 +37,7 @@
 ---
 
 ## 🌟 Highlights  
-- 🔨 Built highly available infra on AWS using **Terraform & Terragrunt**  
+- 🔨 Built highly available infra on AWS using **Terraform**  
 - ⚙️ Automated deployments with **Helm & GitHub Actions**  
 - 🔍 Set up **monitoring & alerting** for Kubernetes workloads  
 - 🛡️ Integrated **WAF, IAM, and security controls** in cloud environments  
