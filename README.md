@@ -14,7 +14,7 @@
 ---
 
 ## 🏢 Work Experience  
-- 💼 Currently working at **[Clouddrove]** as a **DevOps Intern**  
+- 💼 Currently working at **[Clouddrove]** as a **DevOps Associate I**  
 - 🌍 Helping design, automate, and scale infrastructure & deployment pipelines  
 - 🤝 Collaborating with teams to bring **cloud-native solutions** into production  
 
